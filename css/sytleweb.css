@@ -64,10 +64,6 @@
 {
     opacity: 0.8;
 }
-#bang img
-{
-    height: 70px;
-}
 #botton a
 {
     border-radius: 15px;
@@ -124,7 +120,7 @@
     float:left;
     margin-top: 10px;
     margin-left: 10px;
-    padding: 35px; 
+    padding: 30px; 
     display:inline;
 }
 #suboton
