@@ -1,0 +1,40 @@
+<link rel="stylesheet" type="text/css" href="css/sytleweb.css" />
+<!------------------  ----------------->
+            <li>
+            <img src="images/tenet.png"/> <br>
+            <br>Full name : Tenet<br> (2020)<br>Original language : English<br>Country : Estonia(and 6 more)<br>
+            Genres : Action,Sci_Fi
+            <br>Imdb :7.4 <br>Runtime : 2.30 hrs <br>Download :<br> 
+            <div id="botton"><a href="http://d15.uptofiles.com/files/Tamil%20Dubbed%20Movies/TENET%20(2020)/TENET%20(720p%20HC)%20(Highly%20Compressed)/TENET%202020%20720p%20HD.mp4">Tenet (Tamil)</a> 
+                <br><div id="line">------------------------------------------</div>
+            </div>  
+            </li>
+<!---------------------------------->
+            <li>
+            <img src="images/elite.jpeg"/><br>
+            <br>Full name : Elite<br> (2018-present )<br>Original language : Spanish<br>Country : Spain<br>Genres : Drama
+            <br>Imdb :7.4 <br>Total seasons : 4 <br>Download : <br>
+            <div id="botton"><a href="https://isaidub7.net/tamil/elite-2018-season-01-tamil-dubbed-movie.html">Elite (Tamil)</a>
+            <br>  <div id="line">------------------------------------------</div>
+            </div>
+            </li>
+<!-------------------------------->
+       <img scr="" alt="title picture" />
+       <br>Full name : (-)<br>Original language : <br>Country : 
+       <br>Genres : <br>Imdb : <br>Total series : <br>LinK : 
+       <a href=""></a><hr>
+ <p>
+        <b>Note : </b>The information (data) given about the movies and web series are accurate
+        and well calculated, so you can trust us there is no fake links and no inappropiate
+        movie languages.
+    </p>
+    <footer>
+        <div id="footer">
+            <ul>
+                <li><a href="feedback.html">Feedback</a></li>
+
+                <li><a href="about.html">About us</a></li>
+                <li><a href="contact.html">Contact us</a></li>
+            </ul>
+        </div>
+    </footer>

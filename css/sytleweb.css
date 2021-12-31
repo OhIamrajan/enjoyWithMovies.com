@@ -1,0 +1,180 @@
+#text
+{
+    height: 100px;
+    width: 100%;
+    text-align:center ;
+    background-color: rgb(233, 134, 134);
+}
+#rm
+{
+    
+    height: 10px;
+    border-radius: 100px;
+    float:right;
+    padding: 24px;
+    background-color: rgb(238, 25, 25);
+    
+}
+#rm:hover
+{
+    background-color:rgb(233, 134, 134) ;
+}
+#rm a
+{
+    color: white;
+    text-decoration: none;
+}
+#pre_header
+{
+    
+    height: 70px;
+}
+#pre_header img
+{
+    height: 70px;
+    margin-left: 390px;
+}
+#header img
+{
+    height: 70px;
+}
+#header
+{
+    height: 70px;
+    width: 100%;
+    background-color: blue;
+}
+#header ul
+{
+    float:right;
+    margin-top: 18px;
+}
+#header ul li
+{
+    display:inline;
+}
+#header ul li a
+{
+    margin-right: 140px;
+    color:white;
+    font-size: 20px;
+    text-decoration: none;
+}
+#header ul li a:hover
+{
+    opacity: 0.8;
+}
+#bang img
+{
+    height: 70px;
+}
+#botton a
+{
+    border-radius: 15px;
+    padding: 0.1em 0.55em;
+    background-color: blue;
+    text-decoration: none;
+    color:white;
+}
+#botton a:hover{
+    background-color:red;
+    opacity: 0.8;
+}
+#botton2
+{
+    text-decoration: none;
+    color:white;
+}
+#secret
+{
+    color: black    ;
+    text-decoration: none;
+}
+#footer1
+{
+    bottom: 0px;
+    width: 100%;
+    background-color: rgb(63, 56, 56);
+    height: 40px;
+    position: fixed;
+}
+#footer1 ul li
+{
+    display:inline;
+    margin-right: 40px;
+}
+#footer1 ul
+{
+    
+    float:right;
+
+}
+#footer1 ul li a
+{
+    text-decoration: none;
+    color:white;
+}
+#footer1 ul li a:hover{
+    opacity: 0.5;
+}
+#text ul li
+{
+    background-color: rgb(224, 69, 69);
+    border-radius: 40px;
+    float:left;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 35px; 
+    display:inline;
+}
+#suboton
+{
+    
+    height: 40px;
+    width: 100px;
+}
+#box
+{
+    /*padding: 100px;*/
+    height: 29px;
+    width: 25%;
+}
+#text ul li img
+{
+    height: 120px;
+}
+#body
+{
+    width:100%;
+    height: 100%;
+    background-color: rgb(233, 134, 134);
+    background-color: white;
+}
+#justfor
+{
+    background-color: greenyellow;
+    height: 20px;
+}
+#text
+{
+    height: auto;
+}
+#image img
+{
+    height: 200vh;
+    width: 100%;
+}
+#line
+{
+    color: white;
+}
+#search
+{
+    border-radius: 10px;
+    outline: none;
+    display: flex;
+}
+.feedback{
+    text-align: center;
+    padding: 100px;
+}

@@ -1,0 +1,47 @@
+.centre
+{
+    margin: 0px auto;
+    
+    width: 1200px;
+    background-color: red;
+}
+.centre img
+{
+    height: 350px;
+    width: 1200px;
+}
+#round
+{
+    /*background-color: black;*/
+    margin: 0px auto;
+    height: 300px;
+    width: 300px;
+    padding: 0px;
+}
+#round img
+{
+    height: 300px;
+    width: 300px;
+    border-radius: 140px;
+}
+.container
+{
+    color:white;
+    margin-left: 30px;
+    width: 90%;
+    margin: 0px auto;
+}
+.code
+{
+    margin: 0px auto;
+    width: 50%;
+    background-color: black;
+}
+#footer
+{
+    bottom: 0px;
+    width: 100%;
+    background-color: black;
+    height: 50px;
+    position: fixed;
+}
