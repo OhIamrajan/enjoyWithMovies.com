@@ -55,7 +55,7 @@
 }
 #header ul li a
 {
-    margin-right: 90px;
+    margin-right: 10px;
     color:white;
     font-size: 20px;
     text-decoration: none;
@@ -89,7 +89,7 @@
 #footer1
 {
     bottom: 0px;
-    width: 80%;
+    width: 60%;
     background-color: rgb(63, 56, 56);
     height: 50px;
     position: fixed;
@@ -141,7 +141,7 @@
 }
 #body
 {
-    width: 80%;
+    width: 60%;
     height: 100%;
     margin:0px auto;
     background-color: white;
