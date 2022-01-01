@@ -117,16 +117,11 @@
 {
     background-color: rgb(224, 69, 69);
     border-radius: 40px;
-    float:left;
     margin-top: 10px;
     margin-left: 10px;
     padding: 30px;
     display:inline-block;
 }
-#text ul{
-    display:inline-block;
-}
-
 #suboton
 {
     
