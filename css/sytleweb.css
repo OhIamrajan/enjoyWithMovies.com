@@ -117,8 +117,8 @@
 {
     background-color: rgb(224, 69, 69);
     border-radius: 40px;
-    margin-top: 10px;
-    margin-left: 10px;
+    /*margin-top: 10px;
+    margin-left: 10px;*/
     padding: 30px;
     display:inline-block;
 }
