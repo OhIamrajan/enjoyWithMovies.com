@@ -26,13 +26,13 @@
 }
 #pre_header
 {
-    
     height: 70px;
 }
 #pre_header img
 {
     height: 70px;
-    margin-left: 390px;
+    margin:0px auto;
+    width: 55%;
 }
 #header img
 {
@@ -47,7 +47,7 @@
 #header ul
 {
     float:right;
-    margin-top: 18px;
+    margin-top: 25px;
 }
 #header ul li
 {
@@ -55,7 +55,7 @@
 }
 #header ul li a
 {
-    margin-right: 140px;
+    margin-right: 90px;
     color:white;
     font-size: 20px;
     text-decoration: none;
@@ -89,9 +89,9 @@
 #footer1
 {
     bottom: 0px;
-    width: 100%;
+    width: 80%;
     background-color: rgb(63, 56, 56);
-    height: 40px;
+    height: 50px;
     position: fixed;
 }
 #footer1 ul li
@@ -141,9 +141,9 @@
 }
 #body
 {
-    width:100%;
+    width: 80%;
     height: 100%;
-    background-color: rgb(233, 134, 134);
+    margin:0px auto;
     background-color: white;
 }
 #justfor
