@@ -120,9 +120,13 @@
     float:left;
     margin-top: 10px;
     margin-left: 10px;
-    padding: 30px; 
+    padding: 30px;
     display:inline-block;
 }
+#text ul{
+    display:inline-block;
+}
+
 #suboton
 {
     
