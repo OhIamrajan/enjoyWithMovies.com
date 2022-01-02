@@ -176,3 +176,15 @@
 .about{
     padding:30px;
 }
+#download ul li{
+    background-color: blue;
+    width: 20%;
+    height: 100%;
+}
+#text img{
+    padding-top: 10px;
+}
+#download ul li a{
+    color: white;
+    text-decoration: none;
+}
