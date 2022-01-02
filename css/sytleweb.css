@@ -188,3 +188,6 @@
     color: white;
     text-decoration: none;
 }
+#download ul li:hover{
+    opacity:0.5;
+}
