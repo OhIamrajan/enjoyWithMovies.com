@@ -201,9 +201,6 @@
         display: block;
     }
     #text ul li img{
-        width: 250px;
+        width: 500px;
     }
-    #footer1{
-        height: 10%;
-    }    
 }
