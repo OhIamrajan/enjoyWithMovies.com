@@ -2,16 +2,10 @@
 <html>
     <head>
         <title>
-            Unforgetable Movies
+            enjoyWithMovies/feedback
         </title>
         <link rel="stylesheet" type="text/css" href="css/sytleweb.css" />
-         <script type="text/javascript">
-         <!--
-         function thank() {
-         alert("Thank you for your Feedback");
-         }
-         //-->
-         </script>
+        <script src="javascript.js"></script>
     </head>
     <body id="body">  
         <div id="pre_header"><img src="images/headinglogo2.png" />
@@ -29,23 +23,43 @@
              
         </div>
         <br>
-        <form action="" class="feedback">
-            <h2>Feedback here 
-                .<a id="secret" href="alert.html">.</a>.
-                </h2>
-            <input id="box" type="text" required placeholder="type here...">
-            <br><br>
-            <input id="suboton" onClick="thank()" type="submit">
-            <p>Temporarily Irresponsive. <a href="learnmore.html">Learn more.</a>
             
+            <fieldset id="fieldset"><legend><h2 class="feedback">Feedback here 
+                .<a id="secret" href="alert.html">.</a>.
+                </h2></legend>
+                <form action="testing.php" method="post" class="form">
+            Your name :<br>
+            <input id="box" type="name" name="name" required placeholder="Your name">
+            <br><br>Mobile number :<br>
+            <input id="box" type="number" name="mobile" placeholder="Mobile number">
+            <br><br>Your e-mail :<br>
+            <input id="box" type="email" name="email" required placeholder="e-mail">
+            <br><br>Feedback here : <br>
+            <input id="bbox" type="text" name="feedback" required placeholder="feedback here.....">
+            
+            
+            
+            <br><br>
+
+
+            <input id="suboton" type="submit">
+            <br><br>
         </form>
+
+        </fieldset>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+
+            
 <!--br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br-->
 </body>
         <footer>
             <div id="footer1">
                 <ul>
-                    <li><a href="feedback.html">Feedback</a></li>
+            
                     <li><a href="about.html">About us</a></li>
                     <li><a href="contact.html">Contact us</a></li>
                 </ul>
