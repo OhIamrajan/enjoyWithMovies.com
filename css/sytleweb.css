@@ -132,7 +132,11 @@
 {
     /*padding: 100px;*/
     height: 29px;
-    width: 25%;
+    width: 90%;
+}
+#bbox{
+    height: 90px;
+    width: 90%;
 }
 #text ul li img
 {
@@ -203,4 +207,25 @@ media all and (max-width:1000px ){
     #text ul li img{
         width: 500px;
     }
+}
+#fieldset{
+    color: white;
+    background-color: rgb(96, 96, 224);
+    border-radius: 20px;
+    width: 50%;
+    margin: 0px auto;
+}
+#fieldset input{
+    border-radius: 10px;
+    border: none;
+}
+.feedback{
+    color: white;
+    background-color:rgb(226, 49, 49);
+    border-radius: 20px;
+    padding: 10px;
+    margin-left:20px;
+}
+.form{
+    margin-left: 40px;
 }
