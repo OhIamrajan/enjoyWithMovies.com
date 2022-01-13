@@ -198,14 +198,15 @@
 #wsfs img{
     width:70%;
 }
-media all and (max-width:1000px ){
+@media all and (max-width:800px ){
     #text ul li{
-        font-size: 20px;
-        width: 80%;
-        display: block;
+        font-size: auto;
+        width: auto;   
     }
     #text ul li img{
-        width: 500px;
+        border-radius: 10px;
+        width: 90%;
+        height: auto;
     }
 }
 #fieldset{
