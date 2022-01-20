@@ -232,3 +232,7 @@
 #email{
     float:right;
 }
+video{
+    width: 90%;
+    margin-left: 5%;
+}
