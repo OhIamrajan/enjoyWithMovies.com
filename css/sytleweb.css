@@ -198,10 +198,11 @@
 #wsfs img{
     width:70%;
 }
-@media all and (max-width:800px ){
+@media screen and (max-width:500px){
     #text ul li{
         font-size: auto;
-        width: auto;   
+        width: 40%; 
+        height:auto;  
     }
     #text ul li img{
         border-radius: 10px;
