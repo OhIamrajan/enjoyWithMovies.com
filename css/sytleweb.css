@@ -201,7 +201,7 @@
 @media screen and (max-width:500px){
     #text ul li{
         font-size: auto;
-        width: 40%; 
+        width: 80%;
         height:auto;
     }
     #text ul li img{
