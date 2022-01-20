@@ -210,8 +210,7 @@
     }
 }
 #fieldset{
-    color: white;
-    background-color: rgb(96, 96, 224);
+    color: rgb(96, 96, 224);
     border-radius: 20px;
     width: 50%;
     margin: 0px auto;
@@ -229,4 +228,7 @@
 }
 .form{
     margin-left: 40px;
+}
+#email{
+    float:right;
 }
