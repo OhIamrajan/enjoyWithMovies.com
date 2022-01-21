@@ -198,7 +198,7 @@
 #wsfs img{
     width:70%;
 }
-@media screen and (max-width:500px){
+@media only screen and (max-width:500px){
     #text ul li{
         font-size: auto;
         width: 80%;
