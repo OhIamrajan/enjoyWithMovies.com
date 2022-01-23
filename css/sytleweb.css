@@ -198,10 +198,11 @@
 #wsfs img{
     width:70%;
 }
-@media screen and (max-width:480px){
+@media screen and (max-width:480px){     /*₹-@÷|/₹-*/
     #text ul li{
         font-size: auto;
         width: 100%;
+        display : block;
     }
     #text ul li img{
         border-radius: 10px;
