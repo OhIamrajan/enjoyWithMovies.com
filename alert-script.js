@@ -10,7 +10,7 @@ function typing(){
             fun();
         }
         else{
-            setTimeout("typing()",200);
+            setTimeout("typing()",140);
         }
     }
 }
