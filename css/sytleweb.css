@@ -117,7 +117,8 @@
     border-radius: 40px;
     margin-top:10px;
     margin-right:10px;
-    display:block;
+    padding:30px;
+    display:inline-block;
 }
 #suboton
 {
@@ -200,10 +201,10 @@
     #text ul li{
         font-size: auto;
         width: 100%;
-        display:inline-block;
+        display:block;
+        padding:none;
     }
     #text ul li img{
-        border-radius: 10px;
         width: 90%;
         height: auto;
     }
