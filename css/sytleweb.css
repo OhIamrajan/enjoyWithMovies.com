@@ -137,6 +137,7 @@
 }
 #text ul li img
 {
+    padding-top:10px;
     height: 120px;
 }
 #body
