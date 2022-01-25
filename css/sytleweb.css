@@ -199,7 +199,7 @@
     #text ul li{
         font-size: auto;
         width: 100%;
-        display : block;
+        display:inline-block;
     }
     #text ul li img{
         border-radius: 10px;
